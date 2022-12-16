@@ -1,5 +1,5 @@
 import React from 'react';
-import banner from '../assests/banner.jpeg';
+import banner from '../assets/banner.jpeg';
 import { Link } from 'react-router-dom';
 import '../styles/Home.css';
 
